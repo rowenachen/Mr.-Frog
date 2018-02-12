@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WaterDrop
+  - Water
+  - Bomb
+  - Fountain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1100511539
+    locked: 0
+  - name: lilypad
+    uniqueID: 196396289
+    locked: 0
+  - name: water drop
+    uniqueID: 1392370817
+    locked: 0
+  - name: blood
+    uniqueID: 3022509023
+    locked: 0
+  - name: brown
+    uniqueID: 60224439
+    locked: 0
+  - name: black
+    uniqueID: 896933187
+    locked: 0
+  - name: blue
+    uniqueID: 3255166155
+    locked: 0
+  - name: frog
+    uniqueID: 90954337
+    locked: 0
